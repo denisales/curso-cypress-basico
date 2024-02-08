@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="9.2740" tests="19" failures="0">
+  <testsuite name="Root Suite" timestamp="2023-11-22T15:51:52" tests="0" file="cypress/integration/CAC-TAT.spec.js" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Central de Atendimento ao Cliente TAT" timestamp="2023-11-22T15:51:52" tests="19" time="9.2740" failures="0">
+    <testcase name="Central de Atendimento ao Cliente TAT verifica o título da aplicação" time="0.1720" classname="verifica o título da aplicação">
+    </testcase>
+    <testcase name="Central de Atendimento ao Cliente TAT preenche os campos obrigatórios e envia o formulário" time="1.3740" classname="preenche os campos obrigatórios e envia o formulário">
+    </testcase>
+    <testcase name="Central de Atendimento ao Cliente TAT exibe mensagem de erro ao submeter o formulário com um email com formatação inválida" time="1.3020" classname="exibe mensagem de erro ao submeter o formulário com um email com formatação inválida">
+    </testcase>
+    <testcase name="Central de Atendimento ao Cliente TAT campo telefone continua vazio quando preenchido com valor não númerico" time="0.2890" classname="campo telefone continua vazio quando preenchido com valor não númerico">
+    </testcase>
+    <testcase name="Central de Atendimento ao Cliente TAT exibe mensagem de erro quando o telefone se torna obrigatório mas não é preenchido antes do envio do formulário" time="1.1090" classname="exibe mensagem de erro quando o telefone se torna obrigatório mas não é preenchido antes do envio do formulário">
+    </testcase>
+    <testcase name="Central de Atendimento ao Cliente TAT preenche e limpa os campos nome, sobrenome, email e telefone" time="1.6090" classname="preenche e limpa os campos nome, sobrenome, email e telefone">
+    </testcase>
+    <testcase name="Central de Atendimento ao Cliente TAT exibe mensagem de erro ao submeter o formulário sem preencher os campos obrigatórios" time="0.1790" classname="exibe mensagem de erro ao submeter o formulário sem preencher os campos obrigatórios">
+    </testcase>
+    <testcase name="Central de Atendimento ao Cliente TAT envia o formuário com sucesso usando um comando customizado" time="1.3110" classname="envia o formuário com sucesso usando um comando customizado">
+    </testcase>
+    <testcase name="Central de Atendimento ao Cliente TAT seleciona um produto (YouTube) por seu texto" time="0.2210" classname="seleciona um produto (YouTube) por seu texto">
+    </testcase>
+    <testcase name="Central de Atendimento ao Cliente TAT seleciona um produto (Mentoria) por seu texto" time="0.2050" classname="seleciona um produto (Mentoria) por seu texto">
+    </testcase>
+    <testcase name="Central de Atendimento ao Cliente TAT seleciona um produto (blog) por seu texto" time="0.2350" classname="seleciona um produto (blog) por seu texto">
+    </testcase>
+    <testcase name="Central de Atendimento ao Cliente TAT marca o tipo de atendimento &quot;Feedback&quot;" time="0.1670" classname="marca o tipo de atendimento &quot;Feedback&quot;">
+    </testcase>
+    <testcase name="Central de Atendimento ao Cliente TAT marca cada tipo de atendimento" time="0.2240" classname="marca cada tipo de atendimento">
+    </testcase>
+    <testcase name="Central de Atendimento ao Cliente TAT marca ambos checkboxes, depois desmarca o último" time="0.3020" classname="marca ambos checkboxes, depois desmarca o último">
+    </testcase>
+    <testcase name="Central de Atendimento ao Cliente TAT seleciona um arquivo da pasta fixtures" time="0.0990" classname="seleciona um arquivo da pasta fixtures">
+    </testcase>
+    <testcase name="Central de Atendimento ao Cliente TAT seleciona um arquivo simulando um drag-and-drop" time="0.1690" classname="seleciona um arquivo simulando um drag-and-drop">
+    </testcase>
+    <testcase name="Central de Atendimento ao Cliente TAT seleciona um arquivo utilizando uma fixture para a qual foi dada um alias" time="0.0830" classname="seleciona um arquivo utilizando uma fixture para a qual foi dada um alias">
+    </testcase>
+    <testcase name="Central de Atendimento ao Cliente TAT verifica que a política de privacidade abre em outra aba sem a necessidade de um clique" time="0.0640" classname="verifica que a política de privacidade abre em outra aba sem a necessidade de um clique">
+    </testcase>
+    <testcase name="Central de Atendimento ao Cliente TAT acessa a página da política de privacidade removendo o target e então clicando no link" time="0.1600" classname="acessa a página da política de privacidade removendo o target e então clicando no link">
+    </testcase>
+  </testsuite>
+</testsuites>
